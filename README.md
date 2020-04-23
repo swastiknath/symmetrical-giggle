@@ -1,4 +1,8 @@
-# symmetrical-giggle
+# PositionX Machines Research
+- Client ID: PXM_2020_4344_48_3902
+- DATE OF ATTACHMENT : 23-04-2020
+- DATE OF DELIVERY   : 23-04-2020
+- FRAMEWORKS IN USE  : HTML, CSS, JAVASCRIPT, JQUERY, BOOTSTRAP, CLOUDFLARE
 Website for Client Anuranan Sahitya Gosthi.
 
 ### Instructions:
